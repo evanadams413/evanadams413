@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @[Matt Pan](https://github.com/evanadams413/)
 - 👀 I’m interested in software development and physics.
-- 🌱 I’m currently learning Java and Rust.
+- 🌱 I’m currently learning C/C++ and Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: evanadams413@gmail.com
 
